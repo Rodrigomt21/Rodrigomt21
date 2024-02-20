@@ -3,10 +3,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-monteiro-toffoli-teixeira-a99b99278/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigomt21&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigomt21&theme=shadow_red" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigomt21&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigomt21&layout=compact&langs_count=8&card_width=320&theme=shadow_red" />
 </a>
 
 ## Aqui esta algumas das linguagens que custumo usar:
