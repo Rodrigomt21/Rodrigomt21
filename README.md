@@ -1,65 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF6B00,100:0D1117&height=4" width="100%" />
+<img src="./banner.svg" width="100%" alt="Rodrigo Monteiro — AI Engineer" />
 
-<br>
+<br><br>
 
-# Rodrigo Monteiro
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=520&lines=AI+Engineer+%C2%B7+Agentes+Generativos;Vis%C3%A3o+Computacional+%C2%B7+Edge+Computing;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+Mau%C3%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=560&lines=Levo+agentes+de+IA+at%C3%A9+a+produ%C3%A7%C3%A3o;Modelos+rodando+na+borda%2C+n%C3%A3o+s%C3%B3+no+notebook;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+Mau%C3%A1" />
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=FF6B00)](https://www.linkedin.com/in/rodrigo-monteiro-toffoli-teixeira-a99b99278/)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=FF6B00)](https://www.instagram.com/rod.mtt/)
-&nbsp;
 [![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=FF6B00)](mailto:rodrigomt.teixeira@gmail.com)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF6B00,100:0D1117&height=4" width="100%" />
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=FF6B00)](https://www.instagram.com/rod.mtt/)
 
 </div>
 
 <br>
 
-Construo **agentes de IA generativa** que operam dentro de processos reais — e levo **visão computacional** para rodar na borda, em hardware limitado, no campo. Meu interesse é o trecho entre o modelo e o produto: inferência, orquestração e deploy.
+<table border="0">
+<tr>
+<td width="55%" valign="top">
+
+```python
+class Rodrigo:
+    role   = "AI Engineer"
+    edu    = "Ciência da Computação @ Mauá"
+    focus  = [
+        "agentes generativos em produção",
+        "visão computacional na borda",
+        "do modelo ao produto",
+    ]
+    stack  = ["Python", "PyTorch", "FastAPI",
+              "TypeScript", "AWS"]
+    now    = "CityRain — chuva urbana com edge + CV"
+```
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rodrigomt21&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF6B00&text_color=C9D1D9&icon_color=FF6B00&hide_title=true&card_width=380" />
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ## ⚡ IA na prática
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**🤖 Agentes generativos** — arquiteturas multi-agente em produção: orquestração, tool use, RAG e integração com sistemas legados. Agentes que recebem uma transcrição e devolvem um artefato pronto.
 
-**🤖 Agentes generativos**
-Arquiteturas multi-agente em produção — orquestração, tool use, RAG e integração com sistemas legados. Agentes que leem transcrições e entregam artefatos estruturados no fim.
+**👁️ Visão na borda** — CNNs leves (MobileNet, EfficientNet) em Jetson com inferência particionada: filtro rápido no dispositivo, decisão fina no backend.
 
-</td>
-<td width="50%" valign="top">
+**🧪 Pipeline completo** — coleta em campo, dedup e split protegido, treino, avaliação contra ground truth e serviço via API.
 
-**👁️ Visão computacional na borda**
-CNNs leves (MobileNet, EfficientNet) rodando em Jetson com inferência particionada: o filtro rápido fica no dispositivo, a decisão fina vai pro backend.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🧪 Do notebook ao deploy**
-Pipeline completo: coleta de dados em campo, dedup e split protegido, treino, avaliação contra ground truth e serviço via FastAPI.
-
-</td>
-<td width="50%" valign="top">
-
-**🎓 Capacitação em IA**
-Treino times técnicos e de negócio no uso de LLMs e ferramentas de IA no dia a dia — prompt, agentes e automação.
-
-</td>
-</tr>
-</table>
+**🎓 Capacitação** — treino times técnicos e de negócio no uso de LLMs, agentes e automação no dia a dia.
 
 <br>
 
@@ -83,25 +79,13 @@ Nós de borda com câmera classificam a intensidade da chuva em tempo real. Um c
 
 <br>
 
-## 📊 GitHub
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rodrigomt21&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF6B00&text_color=C9D1D9&icon_color=FF6B00&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigomt21&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigomt21&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=C9D1D9&card_width=380" height="150" />
+<img src="https://streak-stats.demolab.com?user=Rodrigomt21&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" height="150" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Rodrigomt21&theme=dark&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" height="160" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<sub>**Modelo que não roda em produção é slide.**</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF6B00,100:0D1117&height=4" width="100%" />
+<sub>Modelo que não roda em produção é slide.</sub>
 
 </div>
