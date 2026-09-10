@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Rodrigo Monteiro — AI Engineer" />
+<img src="./banner.svg" width="100%" alt="Rodrigo Monteiro" />
 
 <br><br>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=FF6B00)](https://www.linkedin.com/in/rodrigo-monteiro-toffoli-teixeira-a99b99278/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGNkIwMCIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM2VjloMy40MXYxLjU2aC4wNWMuNDctLjkgMS42My0xLjg1IDMuMzYtMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ1djYuMjl6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=)](https://www.linkedin.com/in/rodrigo-monteiro-toffoli-teixeira-a99b99278/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=FF6B00)](mailto:rodrigomt.teixeira@gmail.com)
 &nbsp;
@@ -24,22 +24,21 @@
 
 ```python
 class Rodrigo:
-    role   = "AI Engineer"
     edu    = "Ciência da Computação @ Mauá"
+    path   = "backend  →  engenharia de IA"
     focus  = [
-        "agentes generativos em produção",
+        "harness e agentes generativos",
         "visão computacional na borda",
         "do modelo ao produto",
     ]
-    stack  = ["Python", "PyTorch", "FastAPI",
-              "TypeScript", "AWS"]
+    langs  = ["Python", "Java", "JavaScript", "R", "SQL"]
     now    = "CityRain — chuva urbana com edge + CV"
 ```
 
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rodrigomt21&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF6B00&text_color=C9D1D9&icon_color=FF6B00&hide_title=true&card_width=380" />
+<img src="https://github-stats-extended.vercel.app/api?username=Rodrigomt21&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF6B00&text_color=C9D1D9&icon_color=FF6B00&hide_title=true&card_width=380" />
 
 </td>
 </tr>
@@ -50,6 +49,8 @@ class Rodrigo:
 ## ⚡ IA na prática
 
 **🤖 Agentes generativos** — arquiteturas multi-agente em produção: orquestração, tool use, RAG e integração com sistemas legados. Agentes que recebem uma transcrição e devolvem um artefato pronto.
+
+**🧰 Harness** — a engenharia em volta do modelo: definição de ferramentas, contexto e memória, guardrails, loops de execução e avaliação. É o que separa um agente que funciona na demo de um que funciona toda vez.
 
 **👁️ Visão na borda** — CNNs leves (MobileNet, EfficientNet) em Jetson com inferência particionada: filtro rápido no dispositivo, decisão fina no backend.
 
@@ -65,7 +66,7 @@ class Rodrigo:
 
 Nós de borda com câmera classificam a intensidade da chuva em tempo real. Um classificador binário roda na **Jetson Nano**; o modelo de 4 classes roda no backend com agregação espacial **H3**, validado contra **CGE-SP, INMET e CEMADEN**.
 
-`Jetson Nano` `PyTorch` `OpenCV` `FastAPI` `PostgreSQL` `H3` `React` `TypeScript`
+`Jetson Nano` `PyTorch` `OpenCV` `FastAPI` `PostgreSQL` `H3`
 
 <br>
 
@@ -73,7 +74,7 @@ Nós de borda com câmera classificam a intensidade da chuva em tempo real. Um c
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,c,pytorch,opencv,fastapi,postgres,docker,aws,linux,react,neovim,git&perline=7&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,r,postgres,fastapi,pytorch,opencv,docker,aws,linux,neovim,git,bash&perline=7&theme=dark" />
 
 </div>
 
@@ -81,7 +82,7 @@ Nós de borda com câmera classificam a intensidade da chuva em tempo real. Um c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigomt21&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=C9D1D9&card_width=380" height="150" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Rodrigomt21&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=C9D1D9&card_width=380" height="150" />
 <img src="https://streak-stats.demolab.com?user=Rodrigomt21&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" height="150" />
 
 <br><br>
